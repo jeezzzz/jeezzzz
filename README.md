@@ -34,15 +34,11 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeezzzz&show_icons=true&theme=black" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeezzzz&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeezzzz&theme=black" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jeezzzz&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeezzzz&theme=dark" alt="GitHub Streak" />
 </div>
 
 <div align="center">
