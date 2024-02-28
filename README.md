@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeezzzz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeezzzz" alt="GitHub Profile Trophy" /></a> </p>
-
 <h3 align="left">About Me</h3>
 
 - 🌱 Currently exploring new technologies and frameworks
@@ -36,11 +34,11 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeezzzz&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeezzzz&show_icons=true&theme=black" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeezzzz&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeezzzz&theme=black" alt="GitHub Streak" />
 </div>
 
 <div align="center">
