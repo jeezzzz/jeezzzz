@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fandroid-developers.googleblog.com%2F2019%2F11%2Fandroid-developer-challenge-heres-what.html&psig=AOvVaw2mxf-DmW8RrJZRrIOeb-My&ust=1709187900070000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiL_Z6zzYQDFQAAAAAdAAAAABAE" alt="Banner" width="100%" />
+  <img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi there! 👋 I'm Ajeesh Rawal</h1>
@@ -44,7 +44,7 @@
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jeezzzz&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=jeezzzz&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">
